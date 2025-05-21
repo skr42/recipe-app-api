@@ -46,3 +46,7 @@ After the server is running, visit:
 http://127.0.0.1:8000/api/docs/
 ```
 
+![image](https://github.com/user-attachments/assets/c2693e39-0c3e-4cb4-b02a-62f0ac2905a3)
+
+![image](https://github.com/user-attachments/assets/17293273-a09a-4341-833e-b006534d2902)
+
